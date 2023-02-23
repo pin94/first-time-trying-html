@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset="UTF-8">
+    <title>Portfolio_1</title>
+  </head>
+<body>
+  <a href="#other-recipes">Go to other recipe</a>
+
+<p>Hello! Recently I've been studying about tech, and this week I got to learn about programming. So here's my first attempt to make a recipe using html.</p>
+
+<h1>Macaroni & Cheese Recipe</h1>
+<img src="https://images.unsplash.com/photo-1543339531-242d0bc29010?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80", alt: "Mac n Cheese by Hermes Rivera", width="500", height="333">
+  <p>Quick, <b>easy</b>,and tasty macaroni and cheese dish. 
+  Fancy, designer mac and cheese often costs forty or <i>fifty</i> dollars to prepare 
+  when you have so many exotic and expensive cheeses, but they aren't always the best tasting. 
+  This simple recipe is cheap and tasty.
+    </p>
+    <h2>Ingredients for Macaroni and Cheese</h2>
+  <ul>
+    <li>1 box of macaroni</li>
+    <li>1 cup of butter</li>
+    <li>1 cup of flour</li>
+    <li>1/2 tsp salt</li>
+    <li>ground block pepper</li>
+    <li>2 cups of milk</li>
+    <li>2 cups of shredded Cheddar cheese</li>
+  </ul>
+    <h2>How to make it:</h2>
+<ol>
+  <li>Bring a pot of water to boil.</li>
+<li>To make a roux, start by melting butter in a saucepan over medium heat. Add flour, salt, and pepper and stir until smooth.</li>
+  <li>Add cheese and macaroni.</li>
+    </ol>
+   
+  <h1 id="other-recipes">Other recipes</h1>
+<ul>
+  <li>Strawberry Cheesecake</li>
+  <li>Red Velvet Donuts</li>
+
+    <a href="https://youtu.be/GDGejH3SDNQ"> Credit to FreeCodeCamp</a>
+    <a href="mailto:pingakhaer@gmail.com">Email me</a>
+  
+</body>
+</html>
